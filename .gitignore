@@ -1,5 +1,3 @@
-config/*
-!config/default.*
 logs
 npm-debug.log
 node_modules
